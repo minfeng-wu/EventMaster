@@ -8,71 +8,37 @@ Using the links: https://us-east-2.console.aws.amazon.com/ec2/v2/home?region=us-
 
 
 ### How to Use
+Visit the website will automatically list out all the event nearby your location 
+![Image of Yaktocat](https://github.com/minfeng-wu/image/blob/main/%E6%88%AA%E5%B1%8F2020-10-08%20%E4%B8%8A%E5%8D%883.06.50.png)
 
 
 
-```
-Give the example
-```
 
-And repeat
 
-```
-until finished
-```
+You are able to set Event as favorite and see your faviorite event list in favorite section
+![Image of Yaktocat](https://github.com/minfeng-wu/image/blob/main/%E6%88%AA%E5%B1%8F2020-10-08%20%E4%B8%8A%E5%8D%883.07.01.png)
 
-End with an example of getting some data out of the system or using it for a little demo
 
-## Running the tests
 
-Explain how to run the automated tests for this system
 
-### Break down into end to end tests
+You can also navigate the recommendate events for you based on your search and favorite events in the recommendation section
+![Image of Yaktocat](https://github.com/minfeng-wu/image/blob/main/%E6%88%AA%E5%B1%8F2020-10-08%20%E4%B8%8A%E5%8D%883.07.09.png)
 
-Explain what these tests test and why
 
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
 
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* [MySQL](https://www.mysql.com/) - Relational Database
+* [TicketMaster](https://developer.ticketmaster.com/products-and-docs/apis/getting-started/) - Getting Event
 
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+ 
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Minfeng Wu** - *Initial work* - [minfeng-wu](https://github.com/minfeng-wu)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+MIT © MinfengWu
 
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
